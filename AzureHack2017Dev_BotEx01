@@ -1,0 +1,55 @@
+Welcome on Azure Day 2017 in the #Dev track.
+--------------------------------------------
+This is bot hackthone.
+If you are familiar with bot and bot concepts go stright to the last paragraph of this doc. If not, follow us to understand the concepts of bot and the do the task.
+
+The whole documentation of Bot in Azure is here: https://docs.botframework.com/en-us/
+
+0) Before you start, check if you have:
+	- Internet Access	
+	- Microsoft Account / Microsoft ID registred and working
+	- github.com account (you can use any other, we will use github)
+	- Active Azure Subscription, we will not use more than 5$ for the whole day
+	- Visual Studio Community or Visual Studio Code. Or the other text editor of choice
+	- Azure CLI or Azure PowerShell installed on your machine
+	https://github.com/azure/azure-cli
+	- GIT Tools (no need to create any local hit repo)
+	- Optionally Azure Bot Test Emulator 
+	https://github.com/Microsoft/BotFramework-Emulator#download
+
+	
+
+1) How to start with Azure Bot Service (general concepts, samples in c#)
+
+https://docs.botframework.com/en-us/azure-bots/build/first-bot/
+
+Samples in C# are in here:
+https://docs.botframework.com/en-us/csharp/builder/sdkreference/index.html
+
+Samples in node.js are in here:
+https://docs.botframework.com/en-us/node/builder/overview/#navtitle
+
+2) Read about the basic Bot service
+https://docs.botframework.com/en-us/azure-bot-service/templates/basic/#navtitle
+
+3) Explain the Bot concept showing the code of ad2017bot and ad2017botv2
+
+4) Build the bot with dialog options or with Q&A option
+
+4) Add inteligence to the Bot
+	- Cognitive Services Bot - Understand the image given by the person
+	https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp/intelligence-ImageCaption
+
+	- Understanding Human Language
+	https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp/intelligence-LUIS
+
+6) Additional steps - you may want to use them
+	- Configuring and registering the bot
+	https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html#registering
+
+	- Whole bot process
+	https://blogs.msdn.microsoft.com/sarahsays/2015/08/31/building-your-first-node-js-app-and-publishing-to-azure/
+
+
+
+
