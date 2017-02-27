@@ -11,13 +11,15 @@ The whole documentation of Bot in Azure is here: https://docs.botframework.com/e
 	- github.com account (you can use any other, we will use github)
 	- Active Azure Subscription, we will not use more than 5$ for the whole day
 	- Visual Studio Community or Visual Studio Code. Or the other text editor of choice
-	- Azure CLI or Azure PowerShell installed on your machine
-	https://github.com/azure/azure-cli
 	- GIT Tools (no need to create any local hit repo)
-	- Optionally Azure Bot Test Emulator 
-	https://github.com/Microsoft/BotFramework-Emulator#download
-
-	
+	- Azure SDK 2.9.6 for .Net
+	- Optional 
+		- Azure CLI or Azure PowerShell installed on your machine
+		https://github.com/azure/azure-cli
+		- Azure Functions Tooling for .Net
+		https://blogs.msdn.microsoft.com/benjaminperkins/2017/01/19/debugging-azure-funtions-in-visual-studio/
+		- Optionally Azure Bot Test Emulator 
+		https://github.com/Microsoft/BotFramework-Emulator#download
 
 1) How to start with Azure Bot Service (general concepts, samples in c#)
 
@@ -49,10 +51,6 @@ https://docs.botframework.com/en-us/azure-bot-service/templates/basic/#navtitle
 
 	- Whole bot process
 	https://blogs.msdn.microsoft.com/sarahsays/2015/08/31/building-your-first-node-js-app-and-publishing-to-azure/
-
-7) The task
-The task for every team is to create the most sophisticated bot, which can help the person to work within the app, without really using the app.
-The best Bot should allow you to get data from the app, insert some new data and generate if possible a simple report by just using dialogs, forms.
-You can use any bot approach you want and you can define any scenario you like if only it will allow to work with the application. 
+ 
 
 
