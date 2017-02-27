@@ -17,9 +17,12 @@ The whole documentation of Bot in Azure is here: https://docs.botframework.com/e
 		- Azure CLI or Azure PowerShell installed on your machine
 		https://github.com/azure/azure-cli
 		- Azure Functions Tooling for .Net
+		Recommended: https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/
+		
 		https://blogs.msdn.microsoft.com/benjaminperkins/2017/01/19/debugging-azure-funtions-in-visual-studio/
 		- Optionally Azure Bot Test Emulator 
 		https://github.com/Microsoft/BotFramework-Emulator#download
+		-
 
 1) How to start with Azure Bot Service (general concepts, samples in c#)
 
@@ -51,6 +54,8 @@ https://docs.botframework.com/en-us/azure-bot-service/templates/basic/#navtitle
 
 	- Whole bot process
 	https://blogs.msdn.microsoft.com/sarahsays/2015/08/31/building-your-first-node-js-app-and-publishing-to-azure/
+	
+
  
 
 
